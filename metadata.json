@@ -1,0 +1,6 @@
+{
+  "name": "Carousel Template Builder",
+  "description": "A modern web application to quickly generate Instagram carousel slides using pre-made templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
